@@ -70,6 +70,10 @@ Condé Nast uses Druid to track billions of events across our two dozen brands, 
 
 [Contiamo](https://www.contiamo.com) uses cutting edge technology to enable agile development and deployment of data-driven frontends and automations. Druid powers various dashboards and frontends that deal with large amounts of event based data.
 
+## Deep.BI
+
+[Deep.BI](https://www.deep.bi) offers real-time, fast and flexible customer data platform as well as data warehousing & advanced ETL/ELT pipelines for data analysts, product teams and management. Druid powers the real-time, schemaless, and flexible analytics engine that runs Deep.BI's panel and dashboards.
+
 ## Delta Projects
 [Delta Projects](https://www.deltaprojects.com) uses Druid to power real-time audience and advertising analytics interfaces.
 
